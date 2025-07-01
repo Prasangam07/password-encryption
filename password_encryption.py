@@ -33,3 +33,5 @@ elif choice == "d":
 
 else:
     print("❌ Invalid choice. Please enter 'e' to encode or 'd' to decode.")
+    
+#use wisely
