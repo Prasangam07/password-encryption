@@ -15,3 +15,10 @@ This is a simple Python program that allows you to encode and decode passwords u
 Make sure Python is installed on your system. You can check it by:
 ```bash
 python --version
+
+📦 Installation
+Clone this repository:
+
+git clone https://github.com/your-username/password-encryption-base64.git
+cd password-encryption-base64
+
